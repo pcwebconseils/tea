@@ -1,0 +1,37 @@
+header{
+    background-color: aqua;
+    height: 10vh;
+}
+figure{
+    background-color: blue;
+    height: 10vh;
+}
+main{
+    background-color: chocolate;
+    height: 10vh;
+}
+section{
+    width: 70%;
+    border:solid 2px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+h2{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    color: rgb(248, 179, 29);
+}
+.entete{
+    background-color: rgb(87, 83, 83);
+}
+.claire{
+    background-color: rgb(134, 133, 133);
+    height: 3vh;
+}
+.blanc{
+    height: 3vh;
+}
+footer{
+   display: none;
+}
