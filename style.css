@@ -28,9 +28,22 @@ h2{
 .claire{
     background-color: rgb(134, 133, 133);
     height: 3vh;
+    display: flex;
+    justify-content: space-between;
 }
 .blanc{
     height: 3vh;
+    display: flex;
+    justify-content: space-between;
+}
+.prix{
+    width: 45%;
+    margin-right: 2em;
+    text-align: right;
+}
+.titre{
+    width: 45%;
+    margin-left: 2em;
 }
 footer{
    display: none;
